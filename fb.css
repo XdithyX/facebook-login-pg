@@ -1,0 +1,152 @@
+.header{
+    background-color: #3b5998;
+    width: 100%;
+    height: 90px;
+}
+body{
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+
+}
+.logo{
+    width: 50%;
+    padding-top: 35px;
+    float: left;
+
+}
+.login{
+    width: 50%;
+    float: left;
+    margin-top: 20px;
+    color: #fff;
+    font-size: 12px;
+    font-family: Helvetica, Arial, sans-serif;
+    
+    
+}
+.logo-text{
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: Helvetica, Arial, sans-serif;
+    margin-left: 100px ;
+}
+table{
+    margin-left: 90px;
+}
+.sov{
+    color: #9cb4d8;
+}
+.sub{
+    
+    color:#fff;
+    background-color: #4267b2;
+    border-color: #29487d;
+    border-radius: 2px;
+    cursor: pointer;
+    
+
+}
+.sub:hover{
+    background-color: darkblue;
+}
+#crt{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 40px;
+    font-weight: 0;
+}
+#it{
+    text-align: center;
+    margin-top: -60px;
+    margin-right: 195px;
+    font-size: 22px;
+    font-weight: normal;
+}
+.frm{
+    
+}
+.ftnm{
+    border-color: #bdc7d8;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-left: 439px;
+    background-color: #fff;
+    height: 30px;
+    width: 180px;
+}
+.snm{
+    border-color: #bdc7d8;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-left: 4px;
+    font-size: 18px;
+    height: 30px;
+    width: 180px;
+}
+.mb{
+    border-color: #bdc7d8;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-left: 439px;
+    margin-top: 7px ;
+    width: 377px;
+    font-size: 18px;
+    height: 30px;
+
+}
+.np{
+    border-color: #bdc7d8;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-left: 439px;
+    margin-top: 7px;
+    width: 377px;
+    height: 30px;
+}
+.btn1{
+    margin-left: 439px;
+}
+.gr{
+    margin-left: 439px;
+    color: #90949c;
+    font-size: 16px;
+    font-weight: bold;
+}
+.para{
+    margin-left: 439px;
+}
+.sbt{
+    margin-left: 439px;
+    background: linear-gradient(#79bc64, #578843);
+    font-size: 19px;
+    color: #fff;
+    width: 194px;
+    border-radius: 5px;
+    cursor: pointer;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    font-weight: bold;
+    height: 45px;
+}
+.db{
+    margin-left: 439px;
+    margin-top: 10px;
+    color: #90949c;
+    font-size: 16px;
+    font-weight: bold;
+}
+.dt{
+    margin-left: 439px;
+    height: 30px;
+}
+.main-body{
+    background: #ebedf0;
+    display: block;
+    margin: 0;
+    height: 600px;
+    margin-top: -5px;
+    padding-top: 10px;
+    
+    
+}
